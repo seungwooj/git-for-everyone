@@ -8,4 +8,8 @@
 
 #### 1.1 Commit
 
-- make a commit : to set a record at the point of time to .git
+- make a commit : to set a record at the point in time to .git to know ~~what change has been made when~~
+
+#### 1.2 Areas
+
+-
