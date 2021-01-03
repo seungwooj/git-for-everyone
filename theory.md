@@ -18,5 +18,12 @@
 
 #### 1.3 Branches
 
-- By dividing branches, you can 1) change features and 2) update commanbase then 3) merge changed features to the updated commonbase  
+- By dividing branches, you can 1) change contents at feature branch and 2) update master branch then 3) merge feature branch to the updated commonbase  
   <img src="./img/branches.png" width=500px>
+- 작업순서:
+  1. Create a new branch from the master branch (lets say, feature branch)
+  2. At feathre branch, make modification and make a commit at the feature branch
+  3. At master branch, update the contents
+  4. At feature branch, update from default branch **(Merge master branch into feature branch)**
+  5. At master branch, **merge feature branch into master branch**
+  6. Delete feature branch
