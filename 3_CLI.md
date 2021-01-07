@@ -43,10 +43,6 @@
 
 #### 3.6 And more
 
-<<<<<<< HEAD
 - **git remote add <<repository-name>> <<repository-url>>** : 현재 local의 내용을 지정한 이름, 주소의 github repository에 추가  
-=======
-- **git remote add <<repository-name>> <<repository-url>>** : 현재 local의 내용을 지정한 이름, 주소의 github repository에 추가
->>>>>>> e5119530884ebc26da66d9e1062fcb4a1dd48c35
   (현재 가지고 있는 내용을 다른 github/bitbucket/gitlab repository에 추가할 수 있다. -> git push <<repository-name>> master)
 - **git clone <<url-of-repository>> <<folder-name>>**: github repository url의 내용을 local의 특정 folder로 받을 수 있음
